@@ -1,0 +1,23 @@
+{
+  "num_rows": 1190,
+  "num_columns": 12,
+  "columns": [
+    "age",
+    "sex",
+    "chest pain type",
+    "resting bp s",
+    "cholesterol",
+    "fasting blood sugar",
+    "resting ecg",
+    "max heart rate",
+    "exercise angina",
+    "oldpeak",
+    "ST slope",
+    "target"
+  ],
+  "num_missing_values": 0,
+  "class_distribution": {
+    "0": 561,
+    "1": 629
+  }
+}
